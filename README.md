@@ -10,25 +10,26 @@ TIME SERIES ANALYSIS : Forecasted Power Conumption for next 17 months using SARI
 
 ## General info
 
-Project was Time Series Analysis, used SARIMA method to build the model. Major steps involved were as follow :
+Project was Time Series Analysis, used ARIMA and SARIMA method to build the model.
+Major steps involved were as follow :                                 
+* STEP: 1 - Data Cleaning and Analysis
+* STEP: 2 - Checking Stationarity (ADF Test) 
+* STEP: 3 - Transformation  
+* STEP: 4 - Differencing
+* STEP: 5 - Time Series Components 
+* STEP: 6 - Finding ACF and PACF
+* STEP: 7 - ARIMA and SARIMA Modeling 
+* STEP: 8 - Forecast
 
-STEP: 1 - Data Cleaning and Analysis
-STEP: 2 - Checking Stationarity (ADF Test)
-STEP: 3 - Transformation
-STEP: 4 - Differencing
-STEP: 5 - Time Series Components
-STEP: 6 - Finding ACF and PACF
-STEP: 7 - ARIMA and SARIMA Modeling
-STEP: 8 - Forecast
 
 ## Methods and Tools
 
- --Python
- --Jupyter Notebook
- --ARIMA and SARIMA
- --Augmented Dickey-Fuller Test
- --ACF and PACF
- --Statsmodels
+* Python 
+* Jupyter Notebook
+* ARIMA and Sarima
+* Augmented Dickey-Fuller Test
+* ACF and PACF
+* Statsmodels
  
 ## Status
 Project is: _finished_.

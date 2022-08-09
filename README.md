@@ -5,7 +5,7 @@ TIME SERIES ANALYSIS : Forecasted Power Conumption for next 17 months using SARI
 
 * [General info](#general-info)
 * [Methods and Tools](#methods-and-tools)
-* [Mean absolute percentage error](#Mean absolute percentage error)
+* [Mean absolute percentage error](#Mean-absolute-percentage-error)
 * [Status](#status)
 * [Contact](#contact)
 
@@ -32,7 +32,7 @@ Major steps involved were as follow :
 * ACF and PACF
 * Statsmodels
 
-## Status
+## Mean absolute percentage error
 Mean absolute percentage error = 3.04
 
  

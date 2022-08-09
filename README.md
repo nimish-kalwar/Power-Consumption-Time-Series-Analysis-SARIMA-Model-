@@ -5,6 +5,7 @@ TIME SERIES ANALYSIS : Forecasted Power Conumption for next 17 months using SARI
 
 * [General info](#general-info)
 * [Methods and Tools](#methods-and-tools)
+* [Mean absolute percentage error](#Mean absolute percentage error)
 * [Status](#status)
 * [Contact](#contact)
 
@@ -13,8 +14,8 @@ TIME SERIES ANALYSIS : Forecasted Power Conumption for next 17 months using SARI
 Project was Time Series Analysis, used ARIMA and SARIMA method to build the model.
 Major steps involved were as follow :                                 
 * STEP: 1 - Data Cleaning and Analysis
-* STEP: 2 - Checking Stationarity (ADF Test) 
-* STEP: 3 - Transformation  
+* STEP: 2 - Transformation
+* STEP: 3 - Checking Stationarity (ADF Test)   
 * STEP: 4 - Differencing
 * STEP: 5 - Time Series Components 
 * STEP: 6 - Finding ACF and PACF
@@ -30,6 +31,10 @@ Major steps involved were as follow :
 * Augmented Dickey-Fuller Test
 * ACF and PACF
 * Statsmodels
+
+## Status
+Mean absolute percentage error = 3.04
+
  
 ## Status
 Project is: _finished_.

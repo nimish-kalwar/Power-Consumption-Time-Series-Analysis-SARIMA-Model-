@@ -27,7 +27,7 @@ Major steps involved were as follow :
 
 * Python 
 * Jupyter Notebook
-* ARIMA and Sarima
+* ARIMA and SARIMA
 * Augmented Dickey-Fuller Test
 * ACF and PACF
 * Statsmodels

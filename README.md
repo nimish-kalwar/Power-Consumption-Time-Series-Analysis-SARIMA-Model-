@@ -33,7 +33,7 @@ Major steps involved were as follow :
 * Statsmodels
 
 ## Mean absolute percentage error
-Mean absolute percentage error = 3.04
+Mean absolute percentage error = 2.85
 
  
 ## Status
